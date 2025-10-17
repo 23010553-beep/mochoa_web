@@ -71,3 +71,33 @@ flowchart TD
     C --> D[Lưu đơn hàng & items vào DB]
     D --> E[Thông báo thành công]
 ```
+# 🖼️ Ảnh chụp màn hình
+
+
+## Trang chủ / Danh mục
+<img width="1896" height="909" alt="image" src="https://github.com/user-attachments/assets/db0e679b-e2c4-4189-9efa-2c1c5f46f123" />
+
+
+## Danh sách sản phẩm
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/387f8fe9-2262-4f11-8b0f-9396ae5e5491" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/b4350bd4-bec3-477f-8a2f-ba7e1bd6a2ae" />
+
+
+## Chi tiết sản phẩm
+<img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/8cc711e3-bc4c-420f-b661-6b85fc7cd107" />
+
+
+## Giỏ hàng
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/ff81b770-f6b3-4275-af75-0fbc489fdf6e" />
+
+# 💡 Code minh họa
+- Model
+<img width="200" height="161" alt="image" src="https://github.com/user-attachments/assets/fe8df26b-65cb-43de-a17c-e89b07d8b748" />
+
+- Controller
+<img width="317" height="189" alt="image" src="https://github.com/user-attachments/assets/5ca312fe-d936-49c7-aa5f-c81f42dfc6ab" />
+
+- View
+<img width="429" height="415" alt="image" src="https://github.com/user-attachments/assets/9c410dab-e9e2-403c-9773-c2883dea5c0b" />
+
+
