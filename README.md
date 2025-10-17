@@ -1,7 +1,7 @@
 # 🌸 Mộc Hoa – Flower Shop (Laravel + Tailwind + MySQL)
-Họ tên: Đỗ Như Phú
+Họ tên: Đỗ Như Phú, 6 Hằng
 
-MSSV: 23010553
+MSSV: 23010553, 2301khongbiet
 
 Lớp: Thiết kế web nâng cao-1-1-25(COUR01.TH7)
 
